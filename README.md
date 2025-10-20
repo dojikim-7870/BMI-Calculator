@@ -14,7 +14,7 @@ This project is an open-source version of one of the free online tools available
 
 ## 🖼️ Screenshot
 
- ![Screenshot](https://github.com/dojikim-7870/BMI-Calculator/blob/main/bmi-calculator.jpg)
+ ![Screenshot](https://github.com/dojikim-7870/BMI-Calculator/blob/main/BMI-Calculator.jpg)
 
 ---
 
@@ -72,3 +72,4 @@ Feel free to open an [Issue](https://github.com/dojikim-7870/BMI-Calculator/issu
 This project is licensed under the [MIT License](./LICENSE).
 
 <!-- Please add a LICENSE file with the MIT License content to the repository. -->
+
